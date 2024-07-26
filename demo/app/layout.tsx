@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "JWT-LIBRARY",
-  description: "JWT-LIBRARY DEMO",
+  title: "JWT-AUTH-LIBRARY",
+  description: "JWT-AUTH-LIBRARY DEMO",
 };
 
 export default function RootLayout({
